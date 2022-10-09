@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @exxodia666
 - 👀 I’m interested in Mobile crossplatform and iOS development
 - 🌱 I’m currently learning iOS development using Swift and SwiftUI
-- 💞️ I’m looking to collaborate on ...
 
 
 <!---
